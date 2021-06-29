@@ -10,7 +10,7 @@ The application was developed on Google Colab and is comprised of the following 
 
 
 I further tested the model by preparing some sentences, achieving very good results.
-<img src="https://github.com/rcantini/BERT_personality_detection/blob/main/results/roc_auc.png" style="margin-left: auto; margin-right: auto; width: 90%; height: 90%"/>
+<img src="https://github.com/rcantini/BERT_personality_detection/blob/main/results/pers.png" style="margin-left: auto; margin-right: auto; width: 90%; height: 90%"/>
 
 For further information, check out my blog post: https://riccardo-cantini.netlify.app/post/bert_text_classification/
 
