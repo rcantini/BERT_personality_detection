@@ -7,7 +7,8 @@ The application was developed on Google Colab and is comprised of the following 
 - ***Performance evaluation***: I evaluated the trained model using ROC_AUC and Accuracy metrics, achieving an AUC of 0.725 and a binary accuracy of 0.750 on the test set. ROC curves for each personality type are shown in the following:
 <img src="https://github.com/rcantini/BERT_personality_detection/blob/main/results/roc_auc.png" style="margin-left: auto; margin-right: auto; width: 90%; height: 90%"/>
 
-I further tested the model by checking my own personality according to the Myers–Briggs Type Indicator (MBTI).
+I also used the model for finding out my own personality according to the Myers–Briggs Type Indicator (MBTI).
+
 <img src="https://github.com/rcantini/BERT_personality_detection/blob/main/results/pers.png" style="margin-left: auto; margin-right: auto; width: 100%; height: 100%"/>
 
 For further information, the Colab notebook of this project is available in this repository.
