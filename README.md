@@ -9,7 +9,7 @@ The application was developed on Google Colab and is comprised of the following 
 
 I also used the model for finding out my own personality according to the Myers–Briggs Type Indicator (MBTI).
 
-<img src="https://github.com/rcantini/BERT_personality_detection/blob/main/results/pers.png" style="margin-left: auto; margin-right: auto; width: 100%; height: 100%"/>
+<img src="https://github.com/rcantini/BERT_personality_detection/blob/main/results/personality.png" style="margin-left: auto; margin-right: auto; width: 90%; height: 90%"/>
 
 For further information, the Colab notebook of this project is available in this repository.
 Moreover, if you want to know more about BERT and how to exploit it for different text classification tasks, check out my blog post: https://riccardo-cantini.netlify.app/post/bert_text_classification/
