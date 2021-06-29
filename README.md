@@ -11,6 +11,6 @@ I also used the model for finding out my own MBTI personality.
 
 <img src="https://github.com/rcantini/BERT_personality_detection/blob/main/results/personality.png" style="margin-left: auto; margin-right: auto; width: 90%; height: 90%"/>
 
-For further information, the Colab notebook of this project is available in this repository.
+For further information, I have made the Colab notebook available in this repository.
 Moreover, if you want to know more about BERT and how to exploit it for different text classification tasks, check out my blog post: https://riccardo-cantini.netlify.app/post/bert_text_classification/
 
