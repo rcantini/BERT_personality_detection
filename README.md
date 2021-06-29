@@ -1,5 +1,5 @@
 # BERT_personality_detection
-How to fine-tune a BERT classifier using the Huggingface <a href="https://huggingface.co/transformers/quicktour.html">Transformers</a> library and Keras+Tensorflow in order to detect users' personality type based on some text they have posted.
+How to fine-tune a BERT classifier using the Huggingface <a href="https://huggingface.co/transformers/quicktour.html">Transformers</a> library and Keras+Tensorflow in order to detect users' personality type based on some text they have posted, according to the Myers–Briggs Type Indicator (MBTI).
 
 The application was developed on Google Colab and is comprised of the following steps:
 - ***Data preparation***: MBTI data are loaded, preprocessed and prepared according to the BERT specifications.
@@ -7,7 +7,7 @@ The application was developed on Google Colab and is comprised of the following 
 - ***Performance evaluation***: I evaluated the trained model using ROC_AUC and Accuracy metrics, achieving an AUC of 0.725 and a binary accuracy of 0.750 on the test set. ROC curves for each personality type are shown in the following:
 <img src="https://github.com/rcantini/BERT_personality_detection/blob/main/results/roc_auc.png" style="margin-left: auto; margin-right: auto; width: 90%; height: 90%"/>
 
-I also used the model for finding out my own personality according to the Myers–Briggs Type Indicator (MBTI).
+I also used the model for finding out my own MBTI personality.
 
 <img src="https://github.com/rcantini/BERT_personality_detection/blob/main/results/personality.png" style="margin-left: auto; margin-right: auto; width: 90%; height: 90%"/>
 
