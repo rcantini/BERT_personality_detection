@@ -1,1 +1,0 @@
-# BERT_personality_detection
