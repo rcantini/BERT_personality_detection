@@ -14,9 +14,15 @@ The application was developed on Google Colab and is comprised of the following 
    </td></tr>
   </table>
 
+&nbsp;
+
 I also used the model for finding out my own MBTI personality.
+
+&nbsp;
+
 <img src="https://github.com/rcantini/BERT_personality_detection/blob/main/results/personality.png" style="margin-left: auto; margin-right: auto; width: 90%; height: 90%"/>
- 
+
+&nbsp;
 
 For further information, I have made the Colab notebook available in this repository. The related post is available on my blog at this link: https://riccardo-cantini.netlify.app/post/personality_detection/
 
